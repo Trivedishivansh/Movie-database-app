@@ -25,5 +25,28 @@ Users can enter a movie name, and the app fetches data like poster, title, and y
 
 1. Clone the repository:
    ```bash
+   https://github.com/Trivedishivansh/Movie-database-app.git
+   Navigate into the project folder:
+
+cd movie-database-app
+
+
+Install dependencies:
+
+npm install
+
+
+const apiKey = "c3b52665";
+
+
+
+▶️ Running the App
+npm start
+
+
+Open http://localhost:3000
+ in your browser.
+
+Search for movies (e.g., Avengers, Inception, Joker).
    
 
